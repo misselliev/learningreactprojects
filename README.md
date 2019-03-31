@@ -4,6 +4,7 @@ A log of my learning of React.js through a series of small projects and building
 
 ## Projects 
 
-| #  | Name                        | Link                                                                |
-|--- | :--------------------------:| :--------------------------------------------------------------:    |
-| 01 | UI Profile Card             | [CodePen](https://codepen.io/janmez/full/KEEYzJ) // [GitHub](./ui-profilecard/)        |
+| #  | Name               | Link                                                                            |
+|--- | :-----------------:| :---------------------------------------------------------------------------:   |
+| 01 | UI Profile Card    | [CodePen](https://codepen.io/janmez/full/KEEYzJ) // [GitHub](./ui-profilecard/) |
+| 02 | Weather Widget     | [Github](./weather-app) |
